@@ -1,0 +1,14 @@
+.subtotal {
+  width: 200px;
+}
+
+.allPruduct {
+  font-weight: 600;
+  font-size: 20px;
+}
+.allProductPrice {
+  font-weight: 600;
+  font-size: 20px;
+  margin-top: 10px;
+  line-height: 1;
+}
